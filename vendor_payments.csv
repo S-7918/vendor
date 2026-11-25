@@ -1,0 +1,21 @@
+payment_id,vendor_id,vendor_name,category,department,invoice_number,invoice_date,due_date,payment_date,amount,payment_method,payment_terms,status
+PAY-1001,V01,Apex Cloud Services,IT & Cloud,Engineering,INV-2026-001,2026-01-05,2026-02-04,2026-02-01,18500.00,Wire Transfer,Net 30,Paid
+PAY-1002,V02,Vanguard Logistics,Shipping,Operations,INV-2026-002,2026-01-10,2026-01-25,2026-02-06,4200.00,ACH,Net 15,Paid
+PAY-1003,V03,Sterling Office Supplies,Supplies,Operations,INV-2026-003,2026-01-14,2026-02-13,2026-02-10,650.50,Corporate Card,Net 30,Paid
+PAY-1004,V04,Nexus Hardware Corp,IT Hardware,Engineering,INV-2026-004,2026-01-20,2026-02-19,2026-03-02,12400.00,Check,Net 30,Paid
+PAY-1005,V02,Vanguard Logistics,Shipping,Operations,INV-2026-002,2026-01-10,2026-01-25,2026-02-06,4200.00,ACH,Net 15,Paid
+PAY-1006,V05,BluePeak Marketing,Marketing,Marketing,INV-2026-005,2026-02-03,2026-03-05,2026-03-04,7800.00,Wire Transfer,Net 30,Paid
+PAY-1007,V01,Apex Cloud Services,IT & Cloud,Engineering,INV-2026-006,2026-02-08,2026-03-10,2026-03-22,19200.00,Wire Transfer,Net 30,Paid
+PAY-1008,V06,DataPulse Analytics,Software SaaS,Engineering,INV-2026-007,2026-02-15,2026-03-17,2026-03-15,5400.00,ACH,Net 30,Paid
+PAY-1009,V07,Horizon Facilities,Facilities,Facilities,INV-2026-008,2026-02-18,2026-03-05,2026-03-05,3100.00,Check,Net 15,Paid
+PAY-1010,V03,Sterling Office Supplies,Supplies,HR,INV-2026-009,2026-02-22,2026-03-24,2026-03-20,480.00,Corporate Card,Net 30,Paid
+PAY-1011,V04,Nexus Hardware Corp,IT Hardware,Engineering,INV-2026-010,2026-03-02,2026-04-01,2026-03-29,9600.00,Wire Transfer,Net 30,Paid
+PAY-1012,V05,BluePeak Marketing,Marketing,Marketing,INV-2026-011,2026-03-06,2026-04-05,2026-04-18,8300.00,Check,Net 30,Paid
+PAY-1013,V05,BluePeak Marketing,Marketing,Marketing,INV-2026-011A,2026-03-06,2026-04-05,2026-04-18,8300.00,Check,Net 30,Paid
+PAY-1014,V08,Summit Telecom,Telecom,Operations,INV-2026-012,2026-03-12,2026-03-27,2026-03-26,1450.00,ACH,Net 15,Paid
+PAY-1015,V01,Apex Cloud Services,IT & Cloud,Engineering,INV-2026-013,2026-03-18,2026-04-17,2026-04-29,21000.00,Wire Transfer,Net 30,Paid
+PAY-1016,V06,DataPulse Analytics,Software SaaS,Engineering,INV-2026-014,2026-04-02,2026-05-02,,5400.00,ACH,Net 30,Overdue
+PAY-1017,V02,Vanguard Logistics,Shipping,Operations,INV-2026-015,2026-04-07,2026-04-22,2026-05-04,3850.00,ACH,Net 15,Paid
+PAY-1018,V07,Horizon Facilities,Facilities,Facilities,INV-2026-016,2026-04-11,2026-04-26,,3250.00,Check,Net 15,Overdue
+PAY-1019,V04,Nexus Hardware Corp,IT Hardware,Engineering,INV-2026-017,2026-04-15,2026-05-15,,14800.00,Wire Transfer,Net 30,Pending
+PAY-1020,V08,Summit Telecom,Telecom,Operations,INV-2026-018,2026-04-20,2026-05-05,2026-05-03,1490.00,ACH,Net 15,Paid

@@ -1,0 +1,10 @@
+# Vendor Payments Insights
+
+Based on the 20 vendor payment records ($153,370.50 total billed across January–April 2026), here are five key findings:
+
+1. **Top Suppliers and Engineering Drive Most Spend:** Just two vendors—**Apex Cloud Services** ($58,700.00 across 3 invoices) and **Nexus Hardware Corp** ($36,800.00 across 3 invoices)—account for **$95,500.00 (62.3%)** of total spend. Across departments, **Engineering** represents **69.3% ($106,300.00)** of all company payables.
+2. **Two Duplicate Payments Total $12,500.00 in Overpayments:** Duplicate checks caught two repeat disbursements—an exact duplicate invoice to **Vanguard Logistics** (`INV-2026-002` paid twice under `PAY-1002` and `PAY-1005` for **$4,200.00**) and a modified-suffix duplicate to **BluePeak Marketing** (`INV-2026-011` and `INV-2026-011A` for **$8,300.00**).
+3. **Nearly Half of Paid Invoices Were Settled Late:** Out of 17 paid invoices, **8 invoices (47.1%)** were paid **11 to 13 days past their due date**, totaling **$96,450.00** in late payments—including large cloud bills from **Apex Cloud Services** ($19,200.00 and $21,000.00, each 12 days late).
+4. **April Shows an Unpaid Backlog of $23,450.00:** Monthly billing peaked in **March ($48,650.00)**, whereas only **$5,340.00** of April's **$28,790.00** has been settled. Three April invoices remain unpaid: **$8,650.00** already `Overdue` (**DataPulse Analytics** for $5,400.00 and **Horizon Facilities** for $3,250.00) and **$14,800.00** `Pending` (**Nexus Hardware Corp**).
+5. **Wire Transfers and Checks Handle 82.3% of Dollar Volume:** **Wire Transfers** ($90,900.00 across 6 payments, averaging $15,150.00) and **Checks** ($35,350.00 across 5 payments) carry the bulk of vendor spend, while **Net 15** invoices take an average of **20.5 days** to pay—consistently missing their 15-day window.
+6.
